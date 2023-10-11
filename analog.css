@@ -2,7 +2,7 @@ html, body {
 	font-size: 85%;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	letter-spacing: 0.15em;	
-	background-color: white;	
+	background-color: burlywood;	
 }
 			
 #page {
@@ -11,7 +11,7 @@ html, body {
 	height: 500px;
 	margin: 10px auto 10px auto;
 	padding: 50px;
-	border: 4px double burlywood;
+	border: 4px double black;
 	background-color: white;
 }
 #logo {
